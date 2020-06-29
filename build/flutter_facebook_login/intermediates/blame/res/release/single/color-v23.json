@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/beast/Documents/Flutter Projects/Auth/Auth/build/flutter_facebook_login/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/beast/.gradle/caches/transforms-2/files-2.1/9b806cc71296e01a86c2cbc5d704cc19/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    }
+]

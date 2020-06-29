@@ -1,0 +1,4 @@
+#Tue Jun 23 03:03:24 IST 2020
+base.0=/home/beast/Documents/Flutter Projects/Auth/Auth/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

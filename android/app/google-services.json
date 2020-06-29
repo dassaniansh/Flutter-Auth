@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350856189174",
+    "firebase_url": "https://simpleauth-d7068.firebaseio.com",
+    "project_id": "simpleauth-d7068",
+    "storage_bucket": "simpleauth-d7068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350856189174:android:e39547cb637a5c137f88d7",
+        "android_client_info": {
+          "package_name": "com.dassani.Auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350856189174-cs5pobcreree5bld6v1icka5hp44i23p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dassani.Auth",
+            "certificate_hash": "0d3c068db20911f30f161f675412fbcd34ab2ca0"
+          }
+        },
+        {
+          "client_id": "350856189174-6c4orh807eifpcu0b4s8aka0ml59lbu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQ6qysRQnBh6xtOGmhiLdqQ7m9VswEHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350856189174-6c4orh807eifpcu0b4s8aka0ml59lbu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
